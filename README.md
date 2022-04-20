@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shashank
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently looking for summer internship in the above domain.
 <!--- - 💞️ I’m looking to collaborate on ... ---!>
 - 📫 You can reach me on shashanksadafule25@gmail.com
 
