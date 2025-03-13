@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shashank
 - 👀 I’m interested in Machine Learning, Deep Learning and the new advancements in Artificial Intelligence
-<-🌱 I’m currently looking for summer internship in the above domain.>
 - 📫 You can reach me on shashanksadafule25@gmail.com
 
 <!--- - 💞️ I’m looking to collaborate on ... ---!>
