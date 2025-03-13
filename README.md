@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Shashank
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently looking for summer internship in the above domain.
-<!--- - 💞️ I’m looking to collaborate on ... ---!>
+- 👀 I’m interested in Machine Learning, Deep Learning and the new advancements in Artificial Intelligence
+<-🌱 I’m currently looking for summer internship in the above domain.>
 - 📫 You can reach me on shashanksadafule25@gmail.com
+
+<!--- - 💞️ I’m looking to collaborate on ... ---!>
 
 <!---
 Shash-25/Shash-25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
